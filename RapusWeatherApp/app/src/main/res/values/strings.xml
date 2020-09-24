@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kai´s Wetter App</string>
+    <string name="update_weather_data">Wetter Daten aktualisieren</string>
+    <string name="update_location">Ort aktualisieren</string>
+    <string name="unkown_location">Unbekannter Ort</string>
+    <string name="date_format_main">EEEE, MMMM\ndd.MM.yy HH:mm:ss</string>
+    <string name="date_format">dd.MM.yy HH:mm:ss</string>
+    <string name="show_current">Zeige aktuellen Bericht</string>
+    <string name="show_daily">Zeige täglichen Bericht</string>
+    <string name="show_hourly">Zeige stündlichen Bericht</string>
+    <string name="show_minutely">Zeige minütlichen Bericht</string>
+    <string name="back">Zurück</string>
+    <string name="location">Ort</string>
+    <string name="date">Datum:</string>
+    <string name="sunrise">Sonnenaufgang:</string>
+    <string name="sunset">Sonnenuntergang</string>
+    <string name="temp">Temperatur:</string>
+    <string name="feels_like">Gefühlt:</string>
+    <string name="unit_celsius">°C</string>
+    <string name="atmospheric_pressure">Luftdruck</string>
+    <string name="humidity">Luftfeuchtigkeit</string>
+    <string name="dew_point">Taupunkt</string>
+    <string name="uvi">UV Index</string>
+    <string name="clouds">Bewölkung</string>
+    <string name="visibility">Sichtweite</string>
+    <string name="wind_speed">Windgeschwindigkeit</string>
+    <string name="wind_deg">Windrichtung</string>
+</resources>
