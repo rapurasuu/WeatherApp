@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
 
         // App ID und Unit setzen
-        url = url.replace("{appid}", "6e1fa6bbd9a5fb996730042aa3153268")
+        url = url.replace("{appid}", "")
                 .replace("{units}", "metric");
 
         return url;
